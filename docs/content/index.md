@@ -3,16 +3,16 @@
 type: index
 
 event:
-    - title: MPIA conference website template
-    - subtitle: A simple generator using markdown and python
-    - date: Date of the event
-    - venue: Max Planck Institute for Astronomy, Heidelberg, Germany
+    - title: ML4ASTRO
+    - subtitle: "Machine Learning in Astrophysical studies"
+    - date: June 25, 2024
+    - venue: Studio Villa Bosch, Heidelberg, Germany
 
 organizers:
-    - name: The Data Science Team
-    - url: https://github.com/mpi-astronomy
-    - logo: https://upload.wikimedia.org/wikipedia/commons/c/c6/Max-Planck-Institut_f%C3%BCr_Astronomie_Logo.svg  # -- MPIA logo
-    - contact_url: "ds@mpia.de" # -- contact
+    - name: The HD Astro institutes
+    - url: https://github.com/mpi-astronomy/ml4astro2024
+    - logo: static/img/ml4astro_logos.svg
+    - contact_url: "" # -- contact
 
 imprint:
     - url: http://www.mpia.de/imprint
@@ -23,14 +23,11 @@ privacy-policy:
     - name: privacy policy
 
 content:
-    - help
     - overview
     - organizers
     - participants
-    - speakers
     - programme
-    - venue-mpia
+    - venue-bosch
     - logistics
-    - travel-mpia
     - code-of-conduct
 ---

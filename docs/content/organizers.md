@@ -7,21 +7,17 @@ title: Organizers
 
 <div markdown="1" class="col-md-12" style="text-align:center;">
 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Max-Planck-Institut_f%C3%BCr_Astronomie_Logo.svg" alt="venue" width=250px">](https://www.mpia.de)
+<img src="static/img/ml4astro_logos.svg" alt="logos" width="75%">
 
-[The Data Science Team](http://www.mpia.de/institute/research-and-development/data-science)
+* Tobias Buck (IWR)
+* Morgan Fouesneau (MPIA)
+* Guillaume Guiglion (MPIA)
+* Ralf Klessen (ZAH/ITA)
+* Annalisa Pillepich (MPIA)
+* Kai Polsterer (HITS)
 
-* Ivelina Momcheva
-* Morgan Fouesneau
 
-
-<a href="https://mpia-institute.slack.com/messages/data-science" aria-label=envelope>
-<i class="fa-brands fa-slack" style="font-size:36px;"></i>
-</a>
-<a href="https://github.com/mpi-astronomy" aria-label=envelope>
-<i class="fa-brands fa-github" style="font-size:36px;"></i></i>
-</a>
-<a href="" aria-label=envelope>
+<a href="mailto:fouesneau@mpia.de,tobias.buck@iwr.uni-heidelberg.de,klessen@uni-heidelberg.de,pillepich@mpia.de,Kai.Polsterer@h-its.org,guiguiglion@gmail.com" aria-label=envelope>
 <i class="fas fa-envelope big-icon" style="font-size:36px;"></i>
 </a>
 

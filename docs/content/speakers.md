@@ -1,8 +1,8 @@
 ---
 # Speaker list
-active: true
+active: false
 type: speakers
-title: Speakers
+title: Organizers
 
 speakers:
     - name: Jane Doe
@@ -34,3 +34,8 @@ speakers:
       title: Iron inst.
       image: https://demo.gethugothemes.com/eventre/site/images/speakers/speaker-six.jpg
 ---
+<div markdown="1" class="col-md-12" style="text-align:center;">
+
+<img src="static/img/ml4astro_logos.svg" alt="logos" width="75%">
+
+</div>

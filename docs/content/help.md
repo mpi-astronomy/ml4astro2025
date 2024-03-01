@@ -1,5 +1,5 @@
 ---
-active: True
+active: False
 title: Help page
 type: section
 ---
