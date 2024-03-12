@@ -6,7 +6,7 @@ title: Participants
 ---
 
 ## <i class="fa-solid fa-people-group"></i> The registration is **open**.
-Use the following [link](https://forms.gle/) to register.
+Use the following [link](https://docs.google.com/forms/d/e/1FAIpQLSdhCUFpCWVvTqNe5NwBNGhlBtphch1uWTBkIusDcVPBu5KhyQ/viewform?usp=sf_link) to register.
 
 <i class="fa-solid fa-envelope-open-text"></i> Participants notified on **April 30**.
 
