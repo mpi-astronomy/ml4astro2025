@@ -11,7 +11,7 @@ title: Organizers
 
 * Tobias Buck (IWR)
 * Morgan Fouesneau (MPIA)
-* Guillaume Guiglion (MPIA)
+* Guillaume Guiglion (ZAH/LSW, MPIA)
 * Ralf Klessen (ZAH/ITA)
 * Annalisa Pillepich (MPIA)
 * Kai Polsterer (HITS)
