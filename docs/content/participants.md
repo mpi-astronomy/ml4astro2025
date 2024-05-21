@@ -5,10 +5,10 @@ active: true
 title: Participants
 ---
 
-## <i class="fa-solid fa-people-group"></i> The registration is **open**.
+<i class="fa-solid fa-people-group"></i> The registration is **closed**.
 Use the following [link](https://docs.google.com/forms/d/e/1FAIpQLSdhCUFpCWVvTqNe5NwBNGhlBtphch1uWTBkIusDcVPBu5KhyQ/viewform?usp=sf_link) to register.
 
-<i class="fa-solid fa-envelope-open-text"></i> Participants notified on **April 30**.
+##<i class="fa-solid fa-envelope-open-text"></i> Participants notified on **May 30**.
 
 <i class="fa-solid fa-circle-check"></i> Participation confirmation by **June 15**.
 
