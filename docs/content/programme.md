@@ -18,7 +18,14 @@ program:
     - day: Tuesday
       time: 09:30 - 11:00
       title: Pitch talks
-      description: Rapid presentations of participants' research interests
+      description: |2- 
+          Rapid presentations of participants' research interests
+          * Rene Andrae and Nikos Gianniotis: An Introduction to Machine Learning
+          * Rebecca Kuntz: Bayesian Statistics and Information Geometry
+          * William Oliver and Tristan Cantat: Clustering in Astrophysics
+          * Laura Martinez: Contrastive Learning for images
+          * Gregory Green and Guillaume Guiglion: ML for stellar spectra
+          * Taavet Kalda: ML for dynamical modeling
       highlight: true
     - day: Tuesday
       time: 11:00 - 11:30
