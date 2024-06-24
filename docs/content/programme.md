@@ -20,12 +20,12 @@ program:
       title: Pitch talks
       description: |2- 
           Rapid presentations to set ML in the astronomy context
-          * Rene Andrae and Nikos Gianniotis: An Introduction to Machine Learning
+          * Nikos Gianniotis: An Introduction to Machine Learning
           * Rebecca Kuntz: Bayesian Statistics and Information Geometry
           * William Oliver and Tristan Cantat: Clustering in Astrophysics
           * Laura Martinez: Contrastive Learning for images
           * Gregory Green and Guillaume Guiglion: ML for stellar spectra
-          * Taavet Kalda: ML for dynamical modeling
+          * Giuseppe viterbo: simulation-based inference
       highlight: true
     - day: Tuesday
       time: 11:00 - 11:30
