@@ -1,5 +1,7 @@
 # ML4Astro 2025 conference event
 
+Date: July 8, 2025
+
 This repository contains a website generator that can make your conference website.
 
 It generates the content of the web pages from markdown documents stored in `docs/content`.
