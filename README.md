@@ -1,4 +1,4 @@
-# ML4Astro 2024 conference event
+# ML4Astro 2025 conference event
 
 This repository contains a website generator that can make your conference website.
 

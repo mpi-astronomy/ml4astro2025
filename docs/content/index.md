@@ -5,7 +5,7 @@ type: index
 event:
     - title: ML4ASTRO
     - subtitle: "Machine Learning in Astrophysical studies"
-    - date: June 25, 2024
+    - date: July 8, 2025
     - venue: Studio Villa Bosch, Heidelberg, Germany
 
 organizers:

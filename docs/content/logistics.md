@@ -5,7 +5,7 @@ active: true
 title: Logistics
 ---
 
-The Event will start at 09:00 on Tuesday, June 25 2025, and finish at 18:00.
+The Event will start at 09:00 on Tuesday, July 8 2025, and finish at 18:00.
 
 Participants are responsible to reach the venue on their own.
 
