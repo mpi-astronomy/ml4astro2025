@@ -23,9 +23,9 @@ program:
       highlight: true
     - day: Tuesday
       time: 10:00 - 11:00
-      title: Highlight presentations (I)
+      title: Selected presentations (I)
       description: |2-
-          Rapid presentations - details TBD
+          Selected presentations - details TBD
       highlight: true
     - day: Tuesday
       time: 11:00 - 11:30
