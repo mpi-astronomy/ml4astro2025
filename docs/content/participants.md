@@ -5,12 +5,10 @@ active: true
 title: Participants
 ---
 
-<i class="fa-solid fa-people-group"></i> The registration is **closed**.
-Use the following [link](https://docs.google.com/forms/d/e/1FAIpQLSdhCUFpCWVvTqNe5NwBNGhlBtphch1uWTBkIusDcVPBu5KhyQ/viewform?usp=sf_link) to register.
+<i class="fa-solid fa-people-group"></i> The registration is **open** until **June 4**.
+Use the following [link](https://docs.google.com/forms/d/e/1FAIpQLSeUo6m147fyGmsf3p-0MLy9q4y_sU5Yr3TacNZpEKAsKIkPAA/viewform?usp=dialog) to register.
 
-##<i class="fa-solid fa-envelope-open-text"></i> Participants notified on **May 30**.
-
-<i class="fa-solid fa-circle-check"></i> Participation confirmation by **June 15**.
+##<i class="fa-solid fa-envelope-open-text"></i> Participants notified on **June 16**.
 
 * There are no registration fees to participate in this workshop. (See logistics)
 
