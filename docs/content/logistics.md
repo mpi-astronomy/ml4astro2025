@@ -11,7 +11,7 @@ Participants are responsible to reach the venue on their own.
 
 ## <i class="fa-solid fa-drumstick-bite"></i> Lunches & Coffee Breaks
 
-The event provides lunch and coffee breaks at the venue. Vegetarian options will be available (no need to pre-order). If you have any additional dietary requirements (and may not have indicated so in your registration form), please email [Kai Polsterer](mailto:Kai.Polsterer@h-its.org) well in advance.
+The event provides lunch and coffee breaks at the venue. Vegetarian options will be available (no need to pre-order). If you have any additional dietary requirements (and may not have indicated so in your registration form), please email [Nikos Gianniotis](mailto:nikos.gianniotis@h-its.org) well in advance.
 
 ## <i class="fa-solid fa-universal-access"></i> Accessibility
 
@@ -26,5 +26,3 @@ The [Web Accessibility Initiative](https://www.w3.org/WAI/teach-advocate/accessi
 ## <i class="fa-solid fa-comments"></i> Communications
 
 This workshop is an in-person event only.
-
-We will also use TBD to foster communication and collaboration among participants and beyond the event. We will provide more information on this in the coming weeks.
