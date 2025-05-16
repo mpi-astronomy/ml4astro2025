@@ -5,10 +5,10 @@ active: true
 title: Participants
 ---
 
-<i class="fa-solid fa-people-group"></i> The registration is **open** until **June 4**.
+## <i class="fa-solid fa-people-group"></i> The registration is **open** until **June 4**.
 Use the following [link](https://docs.google.com/forms/d/e/1FAIpQLSeUo6m147fyGmsf3p-0MLy9q4y_sU5Yr3TacNZpEKAsKIkPAA/viewform?usp=dialog) to register.
 
-##<i class="fa-solid fa-envelope-open-text"></i> Participants notified on **June 16**.
+<i class="fa-solid fa-envelope-open-text"></i> Participants notified on **June 16**.
 
 * There are no registration fees to participate in this workshop. (See logistics)
 
