@@ -11,15 +11,21 @@ program:
       description: Registration, name tags, etc.
       highlight: true
     - day: Tuesday
-      time: 09:00 - 9:30
+      time: 09:00 - 9:15
       title: boot-up
       description: Welcome and opening remarks
       highlight: true
     - day: Tuesday
-      time: 09:30 - 11:00
-      title: Pitch talks
+      time: 09:15 - 10:00
+      title: Business cards
       description: |2-
-          Rapid presentations to set ML in the astronomy context
+          Rapid presentations per person. [slidedeck](https://docs.google.com/presentation/d/1nDZB_DmbJBpQW8rIlwnGTvo5pYUrZ-PH-L7-9dg63cU/edit?usp=sharing)
+      highlight: true
+    - day: Tuesday
+      time: 10:00 - 11:00
+      title: Highlight presentations (I)
+      description: |2-
+          Rapid presentations - details TBD
       highlight: true
     - day: Tuesday
       time: 11:00 - 11:30
@@ -28,10 +34,10 @@ program:
       highlight: true
     - day: Tuesday
       time: 11:30 - 12:30
-      title: Rapid-fire discussions
+      title: Highlight presentations (II)
       highlight: true
       description: |2-
-        Participants will be divided into small groups to discuss their research interests and potential collaborations.
+        Rapid presentations - details TBD
     - day: Tuesday
       time: 12:30 - 13:50
       title: Lunch break
