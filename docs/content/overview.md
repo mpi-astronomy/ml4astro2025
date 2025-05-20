@@ -8,7 +8,7 @@ The workshop's theme is the application of machine learning to solve astrophysic
 
 
 ***
-<div style="display:  flex; flex-direction: row; align-items: center;">
+<div style="display:flex;flex-direction: row;align-items: center;flex-wrap: wrap;">
   <a href="https://erc.europa.eu/homepage"><img width="100px" src="static/img/ERC-logo.png" alt="ERC logo" style="float:left;margin-right:1rem;">
-  <a href="https://www.ecogal.eu/"><img width="200px" src="static/img/ecogal-logo.png" alt="ECOGAL logo" style="float:left;margin-right:1rem;"></a> <em>This workshop is partly sponsored by the ERC Synergy Grant ECOGAL under grant agreement No 855130).</em>
+  <a href="https://www.ecogal.eu/"><img width="200px" src="static/img/ecogal-logo.png" alt="ECOGAL logo" style="float:left;margin-right:1rem;"></a> <em>This workshop is partly sponsored by the ERC Synergy Grant ECOGAL under grant agreement No 855130.</em>
 </div>
