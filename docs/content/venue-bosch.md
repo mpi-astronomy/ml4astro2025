@@ -15,6 +15,7 @@ The Studio is accessible to disabled persons, and dedicated parking spaces are a
 
 <img src="https://klaus-tschira-stiftung.de/wp-content/uploads/Aussenansicht_StudioVillaBosch.png" alt="venue" width=360px style="float: right;">
 
+<img src="static/img/SVB_pictures.png" alt="venue" width=360px style="float: right;">
 
 ## Address
 
