@@ -23,10 +23,12 @@ program:
       highlight: true
     - day: Tuesday
       time: 10:00 - 11:00
-      title: Selected presentations (I)
+      title: Highlight presentations (I)
       description: |2-
-          Selected presentations - details TBD
-      highlight: true
+          *Rapid presentations to showcase ML application in astronomy*
+          * Rene Andrae (MPIA): Physics-suggested neural nets: Is it possible to get the neural net to respect physics equations truly?
+          * Caroline Heneka (ITP):     AI for the SKA
+          * Lorenzo Branca (IWR): Accelerate simulations by replacing expensive tasks with deep learning based surrogates.
     - day: Tuesday
       time: 11:00 - 11:30
       title: Coffee break
@@ -37,7 +39,11 @@ program:
       title: Highlight presentations (II)
       highlight: true
       description: |2-
-        Rapid presentations - details TBD
+        *Rapid presentations to showcase ML application in astronomy*
+        * Kunal Bhatia (ARI): We need to talk about Microlensing
+        * Guillermo Cabrera-Vives (HITS): From Trees to Transformers: Light Curve Analysis with ALeRCE
+        * Aarya Patil (MPIA): Modelling the Chemical Structure of Stars using Simulation-Based Inference: Prospects for Galactic Archaeology
+      highlight: true
     - day: Tuesday
       time: 12:30 - 13:50
       title: Lunch break
