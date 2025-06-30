@@ -13,9 +13,7 @@ The event will be held at the [Studio Villa Bosch](https://www.studio-villa-bosc
 The Studio is accessible to disabled persons, and dedicated parking spaces are available. Don't hesitate to contact us if you need any assistance or have any questions.
 
 
-<img src="https://klaus-tschira-stiftung.de/wp-content/uploads/Aussenansicht_StudioVillaBosch.png" alt="venue" width=360px style="float: right;">
-
-<img src="static/img/SVB_pictures.png" alt="venue" width=360px style="float: right;">
+<img src="static/img/SVB_pictures.png" alt="venue" width=50% style="float: right;">
 
 ## Address
 
