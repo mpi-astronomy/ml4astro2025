@@ -29,6 +29,7 @@ program:
           * Rene Andrae (MPIA): Physics-suggested neural nets: Is it possible to get the neural net to respect physics equations truly?
           * Caroline Heneka (ITP):     AI for the SKA
           * Lorenzo Branca (IWR): Accelerate simulations by replacing expensive tasks with deep learning based surrogates.
+      highlight: true
     - day: Tuesday
       time: 11:00 - 11:30
       title: Coffee break
