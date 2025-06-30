@@ -41,7 +41,7 @@ program:
       highlight: true
       description: |2-
         *Rapid presentations to showcase ML application in astronomy*
-        * Kunal Bhatia (ARI): We need to talk about Microlensing
+        * Kunal Bhatia (ARI): From Light Curves to Labels, Machine Learning in Microlensing
         * Guillermo Cabrera-Vives (HITS): From Trees to Transformers: Light Curve Analysis with ALeRCE
         * Aarya Patil (MPIA): Modelling the Chemical Structure of Stars using Simulation-Based Inference: Prospects for Galactic Archaeology
       highlight: true
