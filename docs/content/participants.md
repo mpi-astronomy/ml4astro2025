@@ -14,6 +14,7 @@ title: Participants
 <i class="fa-solid fa-file-shield"></i> Any personal data you provide will be processed in accordance with the Max Planck Institute for Astronomy [privacy policy](http://www.mpia.de/privacy-policy).
 
 <img src="static/img/DSC02575.JPG" alt="group picture" width=80% style="display: block;margin: auto;">
+<div style="display: block;margin: auto;">Image credit Marisa Sa Almeida</div>
 
 |  |  | |
 |---|---|---|
