@@ -13,12 +13,9 @@ title: Participants
 
 <i class="fa-solid fa-file-shield"></i> Any personal data you provide will be processed in accordance with the Max Planck Institute for Astronomy [privacy policy](http://www.mpia.de/privacy-policy).
 
-_We will later list here the participants of the workshop, and we will add a group picture._
+<img src="static/img/DSC02575.JPG" alt="group picture" width=80% style="display: block;margin: auto;">
 
-
-<img src="static/img/DSC02575.JPG" alt="group picture" width=80%>
-
-|  | Participants | |
+|  |  | |
 |---|---|---|
 | Aarya Patil (MPIA) | Jeremias Boucsein (ITA) | Ralf Klessen (ITA) |
 | Abylay Bissekenov (Xi'an Jiaotong-Liverpool University) | Jiahan Shi (MPIA/ITA) | Raziye Sari (HITS) |
